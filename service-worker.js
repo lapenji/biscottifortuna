@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/biscottifortuna/precache-manifest.a6335bb48beef4c39801d2f39243279d.js"
+  "/biscottifortuna/precache-manifest.c5a104b49a03e386480be5e2bf04f1fc.js"
 );
 
 self.addEventListener('message', (event) => {
