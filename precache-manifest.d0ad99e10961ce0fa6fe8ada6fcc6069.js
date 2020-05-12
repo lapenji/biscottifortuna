@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fedfa54b06bb3a4ed219c252cf95fbe8",
+    "revision": "bfbdd01992b40cf79893700894a6c62f",
     "url": "/biscottifortuna/index.html"
   },
   {
-    "revision": "19502ddaff94d30d8570",
+    "revision": "af880049ab452cb0f076",
     "url": "/biscottifortuna/static/css/main.f216e913.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biscottifortuna/static/js/2.0d98dc52.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19502ddaff94d30d8570",
-    "url": "/biscottifortuna/static/js/main.1ba9c03c.chunk.js"
+    "revision": "af880049ab452cb0f076",
+    "url": "/biscottifortuna/static/js/main.e36a692c.chunk.js"
   },
   {
     "revision": "edd55b74a7e23c8139ba",
