@@ -18,7 +18,7 @@ const Main = () => {
     
     `
     const recuperaConsigli = async () => {
-        const nuovoConsiglio = await fetch('http://fortunecookieapi.herokuapp.com/v1/cookie?fortuneId=&lottoId=&lessonId=&limit=');
+        const nuovoConsiglio = await fetch('https://fortunecookieapi.herokuapp.com/v1/cookie?fortuneId=&lottoId=&lessonId=&limit=');
         const jsonAto = await nuovoConsiglio.json()
         setConsiglio(jsonAto[0])
         setLoaded(true)
