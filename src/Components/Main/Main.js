@@ -5,15 +5,21 @@ import paper from './img/ricepaper.png'
 
 const Main = () => {
     const Div = styled.div`
-        height: 400px;
         width: 500px;
+        height: 400px;
+        
         background-image: url(${paper});
         display: flex;
         align-items: center;
         justify-content: center;
-        
         margin-bottom: 0.5cm;
         box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+        @media only screen and (max-width: 600px){
+            margin-left: 5%;
+            margin-right: 5%;
+            max-height: 90%;
+            max-width: 90%;
+        }
         
     
     `
