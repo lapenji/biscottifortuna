@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/biscottifortuna/static/css/main.f216e913.chunk.css",
+    "main.js": "/biscottifortuna/static/js/main.fdbdce85.chunk.js",
+    "main.js.map": "/biscottifortuna/static/js/main.fdbdce85.chunk.js.map",
+    "runtime-main.js": "/biscottifortuna/static/js/runtime-main.709d1bea.js",
+    "runtime-main.js.map": "/biscottifortuna/static/js/runtime-main.709d1bea.js.map",
+    "static/js/2.6e731a5d.chunk.js": "/biscottifortuna/static/js/2.6e731a5d.chunk.js",
+    "static/js/2.6e731a5d.chunk.js.map": "/biscottifortuna/static/js/2.6e731a5d.chunk.js.map",
+    "index.html": "/biscottifortuna/index.html",
+    "precache-manifest.a6335bb48beef4c39801d2f39243279d.js": "/biscottifortuna/precache-manifest.a6335bb48beef4c39801d2f39243279d.js",
+    "service-worker.js": "/biscottifortuna/service-worker.js",
+    "static/css/main.f216e913.chunk.css.map": "/biscottifortuna/static/css/main.f216e913.chunk.css.map",
+    "static/js/2.6e731a5d.chunk.js.LICENSE.txt": "/biscottifortuna/static/js/2.6e731a5d.chunk.js.LICENSE.txt",
+    "static/media/ricepaper.png": "/biscottifortuna/static/media/ricepaper.1bca4d1f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.709d1bea.js",
+    "static/js/2.6e731a5d.chunk.js",
+    "static/css/main.f216e913.chunk.css",
+    "static/js/main.fdbdce85.chunk.js"
+  ]
+}
